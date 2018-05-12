@@ -1,0 +1,33 @@
+_repo: English-Past-and-Present_20900
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trench, Richard Chenevix
+    alias: Chenevix, Richard
+    birthdate: 1807
+    deathdate: 1886
+    gutenberg_agent_id: '2062'
+    url: http://www.gutenberg.org/2009/agents/2062
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Chenevix_Trench
+  editor:
+    agent_name: Palmer, Abram Smythe
+    alias: Palmer, A. Smythe
+    gutenberg_agent_id: '9595'
+    url: http://www.gutenberg.org/2009/agents/9595
+description: ''
+gutenberg_issued: '2007-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- History'
+title: English Past and Present
+url: http://www.gutenberg.org/ebooks/20900
